@@ -21,3 +21,8 @@ ul.topnav {
   ul.topnav li a:hover:not(.active) {background-color: #111;}
   
   ul.topnav li a.active {background-color: #7c0000;}
+
+  body{
+    margin: 1;
+    background-color: black ;
+  }
