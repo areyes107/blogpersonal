@@ -31,3 +31,14 @@ ul.topnav li a.active {background-color: #7c0000;}
       text-align: center;
   }
 
+  body{
+    background-image: url("../pics/logo-en.png");
+    background-size: cover;
+    background-color: black;
+  }
+
+  .textpart{
+    color: white;
+    font-size: 150%;
+  }
+
