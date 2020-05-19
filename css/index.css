@@ -1,3 +1,4 @@
+
 ul.topnav {
   list-style-type: none;
   margin: 0;
@@ -32,13 +33,22 @@ ul.topnav li a.active {background-color: #7c0000;}
   }
 
   body{
-    background-image: url("../pics/logo-en.png");
-    background-size: cover;
-    background-color: black;
+    margin: 1;
+    background-color: black ;
   }
 
   .textpart{
     color: white;
-    font-size: 150%;
+    font-size: 180%;
   }
 
+ 
+  footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #7c0000;
+  }
