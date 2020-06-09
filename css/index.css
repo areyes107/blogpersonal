@@ -34,6 +34,7 @@ ul.topnav li a.active {background-color: #7c0000;}
   }
 
   .info{
+    position: relative;
     margin-left: 2;
     margin-right: 2;
       text-align: center;
