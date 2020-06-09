@@ -40,6 +40,7 @@ ul.topnav li a.active {background-color: #7c0000;}
   }
 
   body{
+    overflow: scroll;
     margin: 1;
     background-color: black ;
   }
