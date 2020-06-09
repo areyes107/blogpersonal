@@ -32,3 +32,9 @@ ul.topnav li a.active {background-color: #7c0000;}
     margin: 1;
     background-color: black ;
   }
+
+  .imagen2{
+    color: white;
+    text-align: center;
+    font-size: 200%;
+  }
